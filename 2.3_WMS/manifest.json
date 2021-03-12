@@ -1,0 +1,25 @@
+{
+  "name": "WMSLoader",
+  "label": "WMSLoader",
+  "2D": true,
+  "3D": false,
+  "platform": "HTML",
+  "version": "2.15",
+  "wabVersion": "2.15",
+  "author": "MasterGIS Online",
+  "description": "Widget en 2.3",
+  "copyright": "",
+  "license": "https://apache.org/licenses/LICENSE-2.0",
+  "properties": {
+    "inPanel": true,
+    "hasLocale": false,
+    "hasStyle": true,
+    "hasConfig": true,
+    "hasUIFile": true,
+    "hasSettingPage": false,
+    "hasSettingUIFile": false,
+    "hasSettingLocale": false,
+    "hasSettingStyle": false,
+    "IsController": false
+  }
+}
